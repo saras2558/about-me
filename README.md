@@ -10,7 +10,7 @@ I am 15, turning 16 soon, I use she/her, I love horror, hello kitty, and music :
 --- 
 
 ### **_schedule:_**  
-##### **period: class**
+#### **period: class**
 
 * 1: Gym 
 * 2: Chemistry 
