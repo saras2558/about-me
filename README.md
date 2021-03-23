@@ -14,8 +14,8 @@ I am 15, turning 16 soon, I use she/her, I love horror, hello kitty, and music :
 
 * 1: Gym 
 * 2: Chemistry 
-* 3: BH
-  * stands for Big History
+* 3: BHP
+  * stands for Big History Project 
 * 4: English 
 * 5: Global 
 * 6: SEP
@@ -28,3 +28,4 @@ I am 15, turning 16 soon, I use she/her, I love horror, hello kitty, and music :
 #### **Fun Fact:**
 I also love pasta :)
 
+Done review by haledS
